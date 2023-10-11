@@ -1,0 +1,48 @@
+C:\Users\docenteitm\Documents\DS\Clases\libComunes\obj\Debug\libComunes.csprojAssemblyReference.cache
+C:\Users\docenteitm\Documents\DS\Clases\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+C:\Users\docenteitm\Documents\DS\Clases\libComunes\bin\Debug\libComunes.dll
+C:\Users\docenteitm\Documents\DS\Clases\libComunes\bin\Debug\libComunes.pdb
+C:\Users\docenteitm\Documents\DS\Clases\libComunes\obj\Debug\libComunes.dll
+C:\Users\docenteitm\Documents\DS\Clases\libComunes\obj\Debug\libComunes.pdb
+C:\Users\docenteitm\Documents\DS\libComunes\bin\Debug\libComunes.dll
+C:\Users\docenteitm\Documents\DS\libComunes\bin\Debug\libComunes.pdb
+C:\Users\docenteitm\Documents\DS\libComunes\obj\Debug\libComunes.csprojAssemblyReference.cache
+C:\Users\docenteitm\Documents\DS\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+C:\Users\docenteitm\Documents\DS\libComunes\obj\Debug\libComunes.dll
+C:\Users\docenteitm\Documents\DS\libComunes\obj\Debug\libComunes.pdb
+C:\Users\docenteitm\Documents\DS\Clase 5\libComunes\bin\Debug\libComunes.dll
+C:\Users\docenteitm\Documents\DS\Clase 5\libComunes\bin\Debug\libComunes.pdb
+C:\Users\docenteitm\Documents\DS\Clase 5\libComunes\obj\Debug\libComunes.csprojAssemblyReference.cache
+C:\Users\docenteitm\Documents\DS\Clase 5\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+C:\Users\docenteitm\Documents\DS\Clase 5\libComunes\obj\Debug\libComunes.dll
+C:\Users\docenteitm\Documents\DS\Clase 5\libComunes\obj\Debug\libComunes.pdb
+C:\Users\salak406\Documents\DS\libComunes\bin\Debug\libComunes.dll
+C:\Users\salak406\Documents\DS\libComunes\bin\Debug\libComunes.pdb
+C:\Users\salak406\Documents\DS\libComunes\obj\Debug\libComunes.csprojAssemblyReference.cache
+C:\Users\salak406\Documents\DS\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Documents\DS\libComunes\obj\Debug\libComunes.dll
+C:\Users\salak406\Documents\DS\libComunes\obj\Debug\libComunes.pdb
+D:\Trabajos\ITM\2020-1\Clase_5\libComunes\bin\Debug\libComunes.dll
+D:\Trabajos\ITM\2020-1\Clase_5\libComunes\bin\Debug\libComunes.pdb
+D:\Trabajos\ITM\2020-1\Clase_5\libComunes\obj\Debug\libComunes.csprojAssemblyReference.cache
+D:\Trabajos\ITM\2020-1\Clase_5\libComunes\obj\Debug\libComunes.dll
+D:\Trabajos\ITM\2020-1\Clase_5\libComunes\obj\Debug\libComunes.pdb
+D:\Trabajos\ITM\2020-1\Clase_5\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+D:\Trabajos\ITM\2020-2\libComunes\bin\Debug\libComunes.dll
+D:\Trabajos\ITM\2020-2\libComunes\bin\Debug\libComunes.pdb
+D:\Trabajos\ITM\2020-2\libComunes\obj\Debug\libComunes.csprojAssemblyReference.cache
+D:\Trabajos\ITM\2020-2\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+D:\Trabajos\ITM\2020-2\libComunes\obj\Debug\libComunes.dll
+D:\Trabajos\ITM\2020-2\libComunes\obj\Debug\libComunes.pdb
+D:\Trabajos\ITM\DS\Librerias Comunes\libComunes\bin\Debug\libComunes.dll
+D:\Trabajos\ITM\DS\Librerias Comunes\libComunes\bin\Debug\libComunes.pdb
+D:\Trabajos\ITM\DS\Librerias Comunes\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+D:\Trabajos\ITM\DS\Librerias Comunes\libComunes\obj\Debug\libComunes.dll
+D:\Trabajos\ITM\DS\Librerias Comunes\libComunes\obj\Debug\libComunes.pdb
+D:\Trabajos\ITM\DS\Librerias Comunes\libComunes\obj\Debug\libComunes.csprojAssemblyReference.cache
+C:\BaseDatos\libComunes\libComunes\bin\Debug\libComunes.dll
+C:\BaseDatos\libComunes\libComunes\bin\Debug\libComunes.pdb
+C:\BaseDatos\libComunes\libComunes\obj\Debug\libComunes.csproj.AssemblyReference.cache
+C:\BaseDatos\libComunes\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+C:\BaseDatos\libComunes\libComunes\obj\Debug\libComunes.dll
+C:\BaseDatos\libComunes\libComunes\obj\Debug\libComunes.pdb

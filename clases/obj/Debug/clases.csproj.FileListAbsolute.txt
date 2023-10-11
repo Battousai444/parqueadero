@@ -1,0 +1,9 @@
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\bin\Debug\clases.dll
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\bin\Debug\clases.pdb
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\bin\Debug\libComunes.dll
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\bin\Debug\libComunes.pdb
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\obj\Debug\clases.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\obj\Debug\clases.csproj.CopyComplete
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\obj\Debug\clases.dll
+C:\Users\Acer\Desktop\uni\ingeniertia\parqueadero\clases\obj\Debug\clases.pdb
